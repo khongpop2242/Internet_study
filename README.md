@@ -1,2 +1,2 @@
 # Internet_Study_820
-Mr.ก้องภพ สัตบุษ รหัสนิสิต 65216550751
+Hello everyone, my name is Mr. Kongpop Sattabut. Everyone calls me J. Now there is a student status. Of Kasetsart University Studying about information technology, The student code is 6521650751.
