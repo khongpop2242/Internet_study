@@ -4,10 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        /*สิ่งที่อยู่ตรงนี้จะมัไว้ให้ dev อ่าน*/
+        /*1. id, class, DOM 2.จะแต่งอะไร*/
+        body{
+            background-color: beige;
+        }
+        #register{
+            color: blue;
+        }
+        .form{
+            border: 5;
+        }
+    </style>
 </head>
 <body>
-    <h1>Register from</h1>
-    ชื่อจริง<input type="text">
+    <h1 id="register">Register from</h1>
+    ชื่อจริง<input class="form"type="text">
     นามสกุล<input type="text"><br>
     อายุ<input type="number"min="0"max="100">
 
@@ -43,9 +56,6 @@
     </div>
 
     <button>ส่งข้อมูล</button>
-    <br>
-    <br>
-    <input type="submit"value="ส่งข้อมูล"> ตัวอย่างของการเขียนโค้ดอีกรูปแบบ
 
     
 </body>
